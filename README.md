@@ -2,7 +2,7 @@
 A practice of Pandas and Seaborn
 
 ## Request 1
-I am employed as a Data Scientist by the World Bank and you are working on a project to analyse the World’s demographic trends.
+I am working on a project to analyse the World’s demographic trends.
 I am required to produce a scatterplot illustrating Birth Rate and Internet Usage statistics by Country.
 The scatterplot needs to also be categorised by Countries’ Income Groups. 
 
